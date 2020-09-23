@@ -1,0 +1,10 @@
+9
+Weed,50
+Hash,60
+Ecstacy,70
+Shroom,80
+Meth,90
+PCP,100
+LSD,110
+Cocaine,120
+Heroin,130

@@ -1,0 +1,33 @@
+CT:Sioux City
+Ghetto
+Mall
+South Sioux
+Stockyards
+Northside
+Leeds
+
+CT:London
+Camden
+Kinsington
+Hyde Park
+East End
+Canary Wharf
+Richmond
+Heathrow
+
+CT:Chicago
+Navy Pier
+Lincoln Park
+Cabrini Green
+Hyde Park
+Bucktown
+O'Hare International
+
+CT:New York
+Bronx
+Queens
+Central Park
+Manhattan
+Coney Island
+Brooklyn
+Subway
