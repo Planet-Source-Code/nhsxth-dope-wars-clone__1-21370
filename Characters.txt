@@ -1,0 +1,9 @@
+8
+Lord,100,50
+Pimp,90,45
+Dealer,80,35
+Mule,70,30
+Shark,60,25
+Thug,50,20
+Hoe,40,10
+Pusher,30,15
